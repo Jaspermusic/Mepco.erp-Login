@@ -2,17 +2,28 @@
 <div align="center">
   <b align="center", font-size=40px> An GUI for Automatic login to erp.mepcoeng.ac.in, even fills the captcha </b>
   <p></p>
-  <img src="https://github.com/Jaspermusic/Automatic-Login-Mepco.erp/assets/98389752/0fd6a625-29d8-49d8-9984-06608b7e0073" height="500" />
+  <img src="https://github.com/Jaspermusic/Automatic-Login-Mepco.erp/assets/98389752/8be1ef31-9462-4ac2-854d-e704d2cd3aea" width="500"/>
 </div>
 
+<!-- ![Github](https://github.com/Jaspermusic/Automatic-Login-Mepco.erp/assets/98389752/8be1ef31-9462-4ac2-854d-e704d2cd3aea) -->
+
+
+### Install the dependencies
+```bash
+# Debian-based:
+sudo apt install wget git python3 python3-venv
+# Red Hat-based:
+sudo dnf install wget git python3
+# Arch-based:
+sudo pacman -S wget git python3
+```
 
 
 ## Features:
- - Interface to save your passwords or generate strong passwords.
- - Sqlite3 for database.
- - Customtkinter for gui.
- - Extra libraries include os, random, string and PIL.
- - Convert py to gui, using pyinstaller or auto-py-to-exe.
+ - Automatically fills captcha to "erp.mepcoeng.ac.in", and logins in.
+ - pytesseract an OCR tool to “read” the text embedded in images.
+ - Extra libraries include Selenium, os, PIL.
+ - Convert py to exe, using pyinstaller or auto-py-to-exe.
 
 App made using [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter "CustomTkinter") .
 Thanks to [TomSchimansky](https://github.com/TomSchimansky/ "TomSchimansky").
