@@ -1,6 +1,6 @@
 
 <div align="center">
-  <b align="center", font-size=100px> An GUI for Automatic login to erp.mepcoeng.ac.in, even fills the captcha </b>
+  <b align="center", font-size=100px> An GUI for Automatic login to erp.mepcoeng.ac.in, even fills the captcha ^-^</b>
   <p></p>
   <img src="https://github.com/Jaspermusic/Automatic-Login-Mepco.erp/assets/98389752/8be1ef31-9462-4ac2-854d-e704d2cd3aea" width="800"/>
 </div>
