@@ -2,7 +2,7 @@
 <div align="center">
   <b align="center", font-size=40px> An GUI for Automatic login to erp.mepcoeng.ac.in, even fills the captcha </b>
   <p></p>
-  <img src="https://github.com/Jaspermusic/Automatic-Login-Mepco.erp/assets/98389752/0fd6a625-29d8-49d8-9984-06608b7e0073" width="500" height="500" />
+  <img src="https://github.com/Jaspermusic/Automatic-Login-Mepco.erp/assets/98389752/0fd6a625-29d8-49d8-9984-06608b7e0073" height="500" />
 </div>
 
 
