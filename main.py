@@ -35,8 +35,8 @@ def webpage(username, password, browser):
 
     driver.get("https://erp.mepcoeng.ac.in/")
 
-    driver.find_element(By.ID, "txt_un").send_keys("16491")
-    driver.find_element(By.ID, "txt_pw").send_keys("demouse")
+    driver.find_element(By.ID, "txt_un").send_keys(username)
+    driver.find_element(By.ID, "txt_pw").send_keys(password)
 
     img = driver.find_element(By.ID, "imgCaptcha")
     img.screenshot(os.path.join(address, 'captcha.png'))
